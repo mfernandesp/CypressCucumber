@@ -1,0 +1,16 @@
+{
+    "Nome": "[id=\"elementosForm:nome\"]",
+    "Sobrenome": "[id=\"elementosForm:sobrenome\"]",
+    "Feminino": "[value=F]", 
+    "Masculino": "[value=M]", 
+    "Carne": "[value=\"carne\"]", 
+    "Frango": "[value=\"frango\"]",     
+    "Pizza": "[value=\"pizza\"]",         
+    "Vegetariano": "[value=\"vegetariano\"]",  
+    "Escolaridade": "[id=\"elementosForm:escolaridade\"]", 
+    "Esportes": "[id=\"elementosForm:esportes\"]",
+    "Sugestoes": "[id=\"elementosForm:sugestoes\"]",
+    "Resultado": "[id=\"resultado\"]",
+    "InputGenerico": "[]"
+
+}
